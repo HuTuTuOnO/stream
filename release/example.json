@@ -1,0 +1,18 @@
+{
+    "api": {
+        "addr": ":8888",
+        "secret": "HuTuTuOnO"
+    },
+    "dns": {
+        "upstream": "127.0.0.1:5353"
+    },
+    "mitm": {
+        "http": [
+            ":80"
+        ],
+        "tls": [
+            ":443"
+        ]
+    },
+    "allowed": []
+}
