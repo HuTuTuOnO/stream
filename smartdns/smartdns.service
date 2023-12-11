@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/smartdns -f -x -c /etc/smartdns/smartdns.conf
+ExecStart=/usr/bin/smartdns -f -c /etc/smartdns/smartdns.conf
 Restart=always
 RestartSec=4
 
