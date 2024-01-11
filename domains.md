@@ -600,3 +600,15 @@ tvewnbc-x.akamaized.net
 tvewnbc-y.akamaized.net
 usanetwork.com
 ```
+
+Tiktok
+```
+byteoversea.com
+muscdn.com
+musical.ly
+tik-tokapi.com
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+p16-tiktokcdn-com.akamaized.net
+```
