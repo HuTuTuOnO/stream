@@ -625,3 +625,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicomproductionae4b.blob.core.windows.net
 production-openaicom-storage.azureedge.net
 ```
+
+CatchPlay
+```
+catchplay.com
+tra-ww000-cp.akamaized.net
+```
