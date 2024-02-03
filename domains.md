@@ -463,7 +463,7 @@ tvb.com
 tvb.com.au
 tvbanywhere.com
 tvbanywhere.com.sg
-tvbc.com.cn @cn
+tvbc.com.cn
 tvbeventpower.com.hk
 tvbusa.com
 tvbweekly.com
@@ -528,7 +528,7 @@ wmflabs.org
 
 KanColle
 ```
-heavenlywind.cc @cn
+heavenlywind.cc
 poi.moe
 ```
 
@@ -548,8 +548,8 @@ litvfreepc.akamaized.net
 PrimeVideo
 ```
 aiv-cdn.net
-amazonprimevideo.cn @cn
-amazonprimevideo.com.cn @cn
+amazonprimevideo.cn
+amazonprimevideo.com.cn
 amazonprimevideos.com
 amazonvideo.cc
 amazonvideo.com
