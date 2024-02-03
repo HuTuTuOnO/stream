@@ -537,7 +537,6 @@ kktv
 kktv.com.tw
 kktv.me
 theater-kktv.cdn.hinet.net
-KanColle
 ```
 
 litv
