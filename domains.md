@@ -476,12 +476,12 @@ mytvsuper.com
 tvb.com
 ```
 
-Catchplay
+Catchplay (无GEOSITE)
 ```
 catchplay.com
 tra-ww000-cp.akamaized.net
 ```
-MyVideo
+MyVideo (无GEOSITE)
 ```
 www.myvideo.net.tw
 dache.myvideo.net.tw
