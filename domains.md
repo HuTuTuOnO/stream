@@ -298,9 +298,14 @@ YouTube
 NicoNico
 ```
 dmc.nico
+socdm.com
+nicodic.jp
+nicomanga.jp
+niconico.com
+nicoseiga.jp
 nicovideo.jp
 nimg.jp
-socdm.com
+simg.jp
 ```
 
 Gemini(Bard)
