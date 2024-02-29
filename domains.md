@@ -264,9 +264,9 @@ nimg.jp
 socdm.com
 ```
 
-Bard
+Gemini(Bard)
 ```
-暫時不寫
+gemini.google.com
 ```
 
 Claude
@@ -488,11 +488,6 @@ WFJP
 NaverTV
 ```
 暫時不寫
-```
-
-Gemini
-```
-gemini.google.com
 ```
 
 动画疯
