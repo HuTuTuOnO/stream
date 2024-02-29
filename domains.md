@@ -90,32 +90,24 @@ max.com
 maxgo.com
 hbo.com
 hbonow.com
-hbogo.com
 hbomax.com
 hbomaxcdn.com
 forthethrone.com
 cinemax.com
 ```
 
-HBOGoAisa
+HBO Go Aisa
 ```
 conviva.com
 go.com
-hbo.com
 hbogo.com
-hbonow.com
 hboasia.com
-hbogo.com
 hbogoasia.hk
 hbogoasia.com
 amazonaws.com
 akamaihd.net
 boltdns.net
-cinemax.com
 comhbo.com
-hbomax.com
-maxgo.com
-max.com
 ```
 
 Disney
