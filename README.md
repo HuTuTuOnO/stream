@@ -21,6 +21,9 @@ curl -fsSL https://raw.githubusercontent.com/HuTuTuOnO/stream/master/scripts/upg
 卸载
 curl -fsSL https://raw.githubusercontent.com/HuTuTuOnO/stream/master/scripts/remove.sh | bash
 ```
+更新域名
+curl -fsSL https://raw.githubusercontent.com/HuTuTuOnO/stream/master/scripts/stream.sh | bash
+```
 
 ## 配置文件
 Stream
