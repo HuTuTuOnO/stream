@@ -307,12 +307,36 @@ login.microsoftonline.com
 
 Steam
 ```
-暫時不寫
+playartifact.com
+s.team
+steam-api.com
+steam-chat.com
+steamcommunity.com
+steamcontent.com
+steamdeck.com
+steamgames.com
+steampowered.com
+steamserver.net
+steamstatic.com
+steamusercontent.com
+underlords.com
+valvesoftware.com
 ```
 
 TikTok
 ```
-暫時不寫
+byteoversea.com
+muscdn.com
+musical.ly
+tik-tokapi.com
+tiktok.com
+tiktokcdn-us.com
+tiktokcdn.com
+tiktokd.net
+tiktokd.org
+tiktokv.com
+ttwstatic.com
+p16-tiktokcdn-com.akamaized.net
 ```
 
 TVB（MyTvSuper）
