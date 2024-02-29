@@ -269,14 +269,41 @@ Gemini(Bard)
 gemini.google.com
 ```
 
-Claude
+AnthroPic(Claude)
 ```
-暫時不寫
+anthropic.com
+claude.ai
 ```
 
 Copilot
 ```
-暫時不寫
+algolia.net
+api.microsoftapp.net
+auth0.com
+bing-shopping.microsoft-falcon.io
+cdn.cloudflare.net
+challenges.cloudflare.com
+chatgpt.livekit.cloud
+client-api.arkoselabs.com
+edgeservices.bing.com
+events.statsigapi.net
+featuregates.org
+host.livekit.cloud
+identrust.com
+intercom.io
+intercomcdn.com
+launchdarkly.com
+oaistatic.com
+oaiusercontent.com
+observeit.net
+openai.com
+openaiapi-site.azureedge.net
+openaicom.imgix.net
+poe.com
+segment.io
+sentry.io
+stripe.com
+turn.livekit.cloud
 ```
 
 Steam
