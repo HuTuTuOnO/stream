@@ -485,7 +485,6 @@ api.worldflipper.jp
 LiTV
 ```
 litv.tv
-LiTV.tv
 cdn.hinet.net
 ```
 
