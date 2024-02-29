@@ -61,6 +61,11 @@ fi
 
 cd ~
 
+CURRENT=$(curl -fsSL -4 https://www.cloudflare.com/cdn-cgi/trace | grep ip | tr -d 'ip=')
+if [[ "$CURRENT" == "" ]]; then
+    exit 1
+fi
+
 OUT_ALERT "[提示] 更新 Stream 中"
 wget -O /etc/smartdns/stream.conf            https://raw.githubusercontent.com/HuTuTuOnO/stream/master/smartdns/stream.conf      || exit $?
 sed -i "s/1.1.1.1/$CURRENT/" /etc/smartdns/stream.conf
