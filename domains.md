@@ -21,6 +21,24 @@ abema.adx.promo
 hayabusa.media
 ```
 
+```
+"domain:abema.io",
+"domain:abema.tv",
+"domain:abema-tv.com",
+"domain:ds-linear-abematv.akamaized.net",
+"domain:linear-abematv.akamaized.net",
+"domain:ds-vod-abematv.akamaized.net",
+"domain:vod-abematv.akamaized.net",
+"domain:ameba.jp",
+"domain:hayabusa.io",
+"domain:mobile-collector.newrelic.com",
+"domain:vod-abematv.akamaized.net",
+"domain:bucketeer.jp",
+"domain:abema.adx.promo",
+"domain:hayabusa.media",
+```
+
+
 ProjectSekai
 ```
 sekai.colorfulpalette.org
