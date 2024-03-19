@@ -592,9 +592,11 @@ simg.jp
 
 Gemini(Bard)
 ```
+www.gstatic.com
 gemini.google.com
 ```
 ```
+"domain:www.gstatic.com",
 "domain:gemini.google.com",
 ```
 
