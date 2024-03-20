@@ -593,9 +593,13 @@ simg.jp
 Gemini(Bard)
 ```
 gemini.google.com
+ogads-pa.clients6.google.com
+waa-pa.clients6.google.com
 ```
 ```
 "domain:gemini.google.com",
+"domain:ogads-pa.clients6.google.com",
+"domain:waa-pa.clients6.google.com",
 ```
 
 AnthroPic(Claude)
