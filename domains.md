@@ -592,11 +592,13 @@ simg.jp
 
 Gemini(Bard)
 ```
+bard.google.com
 gemini.google.com
 ogads-pa.clients6.google.com
 waa-pa.clients6.google.com
 ```
 ```
+"domain:bard.google.com",
 "domain:gemini.google.com",
 "domain:ogads-pa.clients6.google.com",
 "domain:waa-pa.clients6.google.com",
